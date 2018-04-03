@@ -14,3 +14,4 @@ def cheng(aa, bb):
     print aa*bb
 
 cheng(a,b)
+print "00000000000"

@@ -7,4 +7,9 @@ b = 20
 def sum(aa, bb):
     print aa+bb
 
-print sum(a, b)
+sum(a, b)
+
+def cheng(aa, bb):
+    print aa*bb
+
+cheng(a,b)

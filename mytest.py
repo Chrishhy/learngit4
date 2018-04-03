@@ -10,3 +10,7 @@ def sum(aa, bb):
 sum(a, b)
 
 print "求和运算"
+def cheng(aa, bb):
+    print aa*bb
+
+cheng(a,b)

@@ -7,4 +7,6 @@ b = 20
 def sum(aa, bb):
     print aa+bb
 
-print sum(a, b)
+sum(a, b)
+
+print "求和运算"
